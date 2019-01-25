@@ -25,5 +25,3 @@ Output from prosodic will be via file.
 Mac: /Users/[your-username]/prosodic_data/results/stats/texts/[your-sentence]/
   
 Linux: /home/[your-username]/prosodic_data/results/stats/texts/[your-sentence]/
-  
-Windows: C:\Users\[your-username]\prosodic_data\results\stats\texts\[your-sentence]\
