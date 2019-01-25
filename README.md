@@ -22,8 +22,8 @@ Output from prosodic will be via file.
 
 ## Default location of prosodic output: 
 
-Mac: /Users/<your-username>/prosodic_data/results/stats/texts/<sentence>/
+Mac: /Users/<your-username>/prosodic_data/results/stats/texts/
   
-Linux: /home/<your-username>/prosodic_data/results/stats/texts/<sentence>/
+Linux: /home/<your-username>/prosodic_data/results/stats/texts/
   
-Windows: C:\Users\<your-username>\prosodic_data\results\stats\texts\<sentence>\
+Windows: C:\Users\<your-username>\prosodic_data\results\stats\texts\
