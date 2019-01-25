@@ -4,7 +4,7 @@ Step 1: Install Anaconda if not installed: https://www.anaconda.com/download/
 
 Step 2: Open up a terminal
 
-Step 3: Make setup executable (chmod +x setup.sh)
+Step 3: Make setup.sh executable (chmod +x setup.sh)
 
 Step 4: Run setup.sh (./setup.sh)
 
@@ -14,15 +14,16 @@ Step 1: Open up a terminal
 
 Step 2: Activate environment (source ./activate_env.sh)
 
-Step 3: Run source code (python prosodic/test.py) or (python nltk/test.py)
+Step 3: Run source code (python nltk/test.py) or (python prosodic/test.py)
 
 Output from nltk will be via terminal.
 
-Output via prosodic will be via file.
+Output from prosodic will be via file.
 
-Default location: 
-Mac: /Users/<your-username>/prosodic_data/results/stats/texts/
+## Default location of prosodic output: 
+
+Mac: /Users/<your-username>/prosodic_data/results/stats/texts/<sentence>/
   
-Linux: /home/<your-username>/prosodic_data/results/stats/texts/
+Linux: /home/<your-username>/prosodic_data/results/stats/texts/<sentence>/
   
-Windows: C:\Users\<your-username>\prosodic_data\results\stats\texts\
+Windows: C:\Users\<your-username>\prosodic_data\results\stats\texts\<sentence>\
